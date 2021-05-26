@@ -1,0 +1,45 @@
+.boxed {
+    border: 1px solid black ;
+    text-align: center ;
+    margin: auto ;
+    box-sizing: border-box ;
+}
+
+.item {
+    height: 200px;
+    width: 200px;
+}
+
+.item-text, #changeBox {
+    font-size: medium;
+}
+
+.moneybtn {
+    text-align: center ;
+    width: 120px ;
+}
+
+.moneycell {
+    padding: 5px ;
+}
+td {
+    position: relative;
+}
+.quantity {
+    position: absolute;
+    bottom: 0;
+}
+
+hr {
+    color: black;
+    background-color: black;
+}
+
+table, td {
+  padding: 5px;
+}
+
+table {
+      border-collapse: separate;
+      border-spacing: 10px;
+}
